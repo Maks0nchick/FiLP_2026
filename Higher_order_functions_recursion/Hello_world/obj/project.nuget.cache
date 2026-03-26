@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpoFQNp2Ync=",
+  "success": true,
+  "projectFilePath": "D:\\Учёба\\Project\\GIT\\FiLP\\Higher_order_functions_recursion\\Hello_world\\Hello_world.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksi\\.nuget\\packages\\fsharp.core\\8.0.403\\fsharp.core.8.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}
