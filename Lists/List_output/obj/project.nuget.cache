@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cvBbnbjN1XI=",
+  "success": true,
+  "projectFilePath": "D:\\Учёба\\Project\\GIT\\FiLP\\Lists\\List_output\\List_output.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksi\\.nuget\\packages\\fsharp.core\\8.0.403\\fsharp.core.8.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}
